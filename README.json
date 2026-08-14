@@ -19,7 +19,7 @@
             "last_commit": "2026-08-04T03:22:28Z",
             "owner": "mint-lang",
             "repo": "mint",
-            "stars": 4262
+            "stars": 4263
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-04T03:22:28Z",
             "owner": "mint-lang",
             "repo": "mint",
-            "stars": 4262
+            "stars": 4263
           }
         }
       ],
@@ -181,7 +181,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:11:39.591Z",
+    "last_updated": "2026-08-14T12:10:33.027Z",
     "original_repository": "egajda/awesome-mint",
     "original_repository_sha": "bf1257b5e245f0e67d06dadf58059952386a0f76",
     "enhanced_repository": "enhansome/enhansome-mint",
