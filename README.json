@@ -1,188 +1,184 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub Repo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125516114,
+                "language": "Crystal",
+                "last_commit": "2026-08-19T11:42:13Z",
+                "owner": "mint-lang",
+                "repo": "mint",
+                "stars": 4262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Release Notes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125516114,
+                "language": "Crystal",
+                "last_commit": "2026-08-19T11:42:13Z",
+                "owner": "mint-lang",
+                "repo": "mint",
+                "stars": 4262
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Resources"
+        }
+      ],
       "title": "Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "GitHub Repo",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hackerfit",
+              "description": "A fun way to be active everyday",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 251417108,
+                "language": null,
+                "last_commit": "2020-04-25T06:20:31Z",
+                "owner": "egajda",
+                "repo": "hackerfit",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TodoMVC",
+              "description": "Mint implementation of TodoMVC",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 259904683,
+                "language": "HTML",
+                "last_commit": "2020-05-03T17:33:55Z",
+                "owner": "ymmooot",
+                "repo": "mint-todomvc",
+                "stars": 8
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Crystal",
-            "last_commit": "2026-08-04T03:22:28Z",
-            "owner": "mint-lang",
-            "repo": "mint",
-            "stars": 4262
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Release Notes",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Crystal",
-            "last_commit": "2026-08-04T03:22:28Z",
-            "owner": "mint-lang",
-            "repo": "mint",
-            "stars": 4262
-          }
+          "node_type": "group",
+          "title": "Open Source"
         }
       ],
-      "title": "Official Resources"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Projects Using Mint"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hackerfit",
-          "description": "A fun way to be active everyday",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-04-25T06:20:31Z",
-            "owner": "egajda",
-            "repo": "hackerfit",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TodoMVC",
-          "description": "Mint implementation of TodoMVC",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2020-05-03T17:33:55Z",
-            "owner": "ymmooot",
-            "repo": "mint-todomvc",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Open Source"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Awesome Mint"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Components & Libraries"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Scaffold"
-    },
-    {
       "description": "This page covers general-purpose tools that support Mint language.",
-      "items": [],
-      "title": "Tools"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "item",
-          "title": "VSCode extension",
-          "description": "adds syntax highlighting and autocomplete support",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-02-26T08:14:00Z",
-            "owner": "mint-lang",
-            "repo": "mint-vscode",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Emacs mode",
-          "description": "adds syntax highlighting and auto-formatting using mint format",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Emacs Lisp",
-            "last_commit": "2022-11-05T17:20:53Z",
-            "owner": "creatorrr",
-            "repo": "emacs-mint-mode",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vim",
-          "description": "very minimal (but working) syntax/ftdetect combo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim script",
-            "last_commit": "2020-03-13T09:53:53Z",
-            "owner": "IrenejMarc",
-            "repo": "vim-mint",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IntelliJ plugin",
-          "description": "adds syntax highlighting",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2018-09-11T17:35:02Z",
-            "owner": "kingsleyh",
-            "repo": "intellij-mint",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Atom plugin",
-          "description": "adds syntax highlighting",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CoffeeScript",
-            "last_commit": "2018-07-06T08:34:36Z",
-            "owner": "kingsleyh",
-            "repo": "language-mint",
-            "stars": 2
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VSCode extension",
+              "description": "adds syntax highlighting and autocomplete support",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247435676,
+                "language": "TypeScript",
+                "last_commit": "2025-02-26T08:14:00Z",
+                "owner": "mint-lang",
+                "repo": "mint-vscode",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Emacs mode",
+              "description": "adds syntax highlighting and auto-formatting using mint format",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157512668,
+                "language": "Emacs Lisp",
+                "last_commit": "2022-11-05T17:20:53Z",
+                "owner": "creatorrr",
+                "repo": "emacs-mint-mode",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vim",
+              "description": "very minimal (but working) syntax/ftdetect combo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245383402,
+                "language": "Vim script",
+                "last_commit": "2020-03-13T09:53:53Z",
+                "owner": "IrenejMarc",
+                "repo": "vim-mint",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IntelliJ plugin",
+              "description": "adds syntax highlighting",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144778871,
+                "language": "Java",
+                "last_commit": "2018-09-11T17:35:02Z",
+                "owner": "kingsleyh",
+                "repo": "intellij-mint",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Atom plugin",
+              "description": "adds syntax highlighting",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136951435,
+                "language": "CoffeeScript",
+                "last_commit": "2018-07-06T08:34:36Z",
+                "owner": "kingsleyh",
+                "repo": "language-mint",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Editor extensions"
         }
       ],
-      "title": "Editor extensions"
-    },
-    {
-      "description": "Contributions welcome!\n",
-      "items": [],
-      "title": "Contribute"
+      "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:52:47.369Z",
+    "last_updated": "2026-08-19T11:52:17.236Z",
     "original_repository": "egajda/awesome-mint",
+    "original_repository_id": 259392327,
     "original_repository_sha": "bf1257b5e245f0e67d06dadf58059952386a0f76",
     "enhanced_repository": "enhansome/enhansome-mint",
     "enhanced_repository_description": null,
