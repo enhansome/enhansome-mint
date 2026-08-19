@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 125516114,
                 "language": "Crystal",
-                "last_commit": "2026-08-19T11:42:13Z",
+                "last_commit": "2026-08-19T12:25:47Z",
                 "owner": "mint-lang",
                 "repo": "mint",
                 "stars": 4262
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 125516114,
                 "language": "Crystal",
-                "last_commit": "2026-08-19T11:42:13Z",
+                "last_commit": "2026-08-19T12:25:47Z",
                 "owner": "mint-lang",
                 "repo": "mint",
                 "stars": 4262
@@ -176,7 +176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:52:17.236Z",
+    "last_updated": "2026-08-19T12:39:46.169Z",
     "original_repository": "egajda/awesome-mint",
     "original_repository_id": 259392327,
     "original_repository_sha": "bf1257b5e245f0e67d06dadf58059952386a0f76",
