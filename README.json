@@ -39,6 +39,28 @@
           "description": null,
           "node_type": "group",
           "title": "Official Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RealWorld",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132920843,
+                "language": "Mint",
+                "last_commit": "2026-06-06T07:47:02Z",
+                "owner": "mint-lang",
+                "repo": "mint-realworld",
+                "stars": 67
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Examples"
         }
       ],
       "title": "Resources"
@@ -85,6 +107,62 @@
         }
       ],
       "title": "Projects Using Mint"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code Mirror",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 141378663,
+                "language": "Mint",
+                "last_commit": "2024-03-20T09:53:12Z",
+                "owner": "mint-lang",
+                "repo": "mint-codemirror",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text Editors"
+        }
+      ],
+      "title": "Components & Libraries"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tauri",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245575569,
+                "language": "Rust",
+                "last_commit": "2023-08-03T06:21:23Z",
+                "owner": "s0kil",
+                "repo": "mint-tauri-starter",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Desktop App"
+        }
+      ],
+      "title": "Scaffold"
     },
     {
       "description": "This page covers general-purpose tools that support Mint language.",
@@ -173,10 +251,52 @@
         }
       ],
       "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Github action",
+          "description": "Github action to test and build Mint projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 250486228,
+            "language": "Shell",
+            "last_commit": "2026-07-23T22:58:40Z",
+            "owner": "fabasoad",
+            "repo": "setup-mint-action",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "CI/CD"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mint-lang-zsh",
+          "description": "Oh My Zsh plugin for the \"mint\" binary.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 895728810,
+            "language": "Shell",
+            "last_commit": "2024-11-30T13:32:43Z",
+            "owner": "tamdaz",
+            "repo": "mint-lang-zsh",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Script plugins"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:56:01.080Z",
+    "last_updated": "2026-08-24T14:47:42.886Z",
     "original_repository": "egajda/awesome-mint",
     "original_repository_id": 259392327,
     "original_repository_sha": "bf1257b5e245f0e67d06dadf58059952386a0f76",
