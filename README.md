@@ -25,8 +25,8 @@
 
 ### Official Resources
 
-* [GitHub Repo](https://github.com/mint-lang/mint) ⭐ 4,265 | 🐛 16 | 🌐 Crystal | 📅 2026-08-19
-* [Release Notes](https://github.com/mint-lang/mint/releases) ⭐ 4,265 | 🐛 16 | 🌐 Crystal | 📅 2026-08-19
+* [GitHub Repo](https://github.com/mint-lang/mint) ⭐ 4,266 | 🐛 16 | 🌐 Crystal | 📅 2026-08-19
+* [Release Notes](https://github.com/mint-lang/mint/releases) ⭐ 4,266 | 🐛 16 | 🌐 Crystal | 📅 2026-08-19
 * [Official Guide](https://www.mint-lang.com/guide)
 * [Official Blog](https://www.mint-lang.com/blog)
 
