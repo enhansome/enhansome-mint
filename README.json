@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍃 A refreshing programming language for the front-end web.",
+                "homepage": "https://mint-lang.com",
                 "id": 125516114,
                 "language": "Crystal",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T14:09:25Z",
+                "open_issues": 14,
                 "owner": "mint-lang",
                 "repo": "mint",
-                "stars": 4266
+                "stars": 4266,
+                "topics": [
+                  "compile-to-js",
+                  "compiler",
+                  "crystal",
+                  "language",
+                  "mint-lang",
+                  "programming-language"
+                ]
               },
               "first_seen": "2026-08-28T21:28:51.175Z"
             },
@@ -28,12 +40,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍃 A refreshing programming language for the front-end web.",
+                "homepage": "https://mint-lang.com",
                 "id": 125516114,
                 "language": "Crystal",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T14:09:25Z",
+                "open_issues": 14,
                 "owner": "mint-lang",
                 "repo": "mint",
-                "stars": 4266
+                "stars": 4266,
+                "topics": [
+                  "compile-to-js",
+                  "compiler",
+                  "crystal",
+                  "language",
+                  "mint-lang",
+                  "programming-language"
+                ]
               },
               "first_seen": "2026-08-28T21:28:51.175Z"
             }
@@ -51,12 +75,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mint implementation of https://realworld.io frontend",
+                "homepage": "https://realworld.mint-lang.com",
                 "id": 132920843,
                 "language": "Mint",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-06T07:47:02Z",
+                "open_issues": 12,
                 "owner": "mint-lang",
                 "repo": "mint-realworld",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "mint-lang",
+                  "realworld-frontend"
+                ]
               },
               "first_seen": "2026-08-28T21:28:51.175Z"
             }
@@ -80,12 +112,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Workout your body and frontend skills",
+                "homepage": "https://hackerfit.surge.sh",
                 "id": 251417108,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-04-25T06:20:31Z",
+                "open_issues": 0,
                 "owner": "egajda",
                 "repo": "hackerfit",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "fitness",
+                  "fitness-app",
+                  "tabata",
+                  "tabata-timer",
+                  "tabata-training",
+                  "workout",
+                  "workout-apps",
+                  "workout-timer"
+                ]
               },
               "first_seen": "2026-08-28T21:28:51.175Z"
             },
@@ -96,12 +142,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TodoMVC with mint-lang",
+                "homepage": "https://ymmooot.github.io/mint-todomvc/",
                 "id": 259904683,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2020-05-03T17:33:55Z",
+                "open_issues": 0,
                 "owner": "ymmooot",
                 "repo": "mint-todomvc",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "mint-lang",
+                  "todomvc"
+                ]
               },
               "first_seen": "2026-08-28T21:28:51.175Z"
             }
@@ -125,12 +179,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Mint package that provides a CodeMirror component",
+                "homepage": null,
                 "id": 141378663,
                 "language": "Mint",
+                "license": "MIT",
                 "last_commit": "2024-03-20T09:53:12Z",
+                "open_issues": 0,
                 "owner": "mint-lang",
                 "repo": "mint-codemirror",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "codemirror",
+                  "mint-lang"
+                ]
               },
               "first_seen": "2026-08-28T21:28:51.175Z"
             }
@@ -154,12 +216,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mint + Tauri Starter Template",
+                "homepage": null,
                 "id": 245575569,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2023-08-03T06:21:23Z",
+                "open_issues": 11,
                 "owner": "s0kil",
                 "repo": "mint-tauri-starter",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "mint",
+                  "starter",
+                  "starter-template",
+                  "tauri"
+                ]
               },
               "first_seen": "2026-08-28T21:28:51.175Z"
             }
@@ -183,12 +255,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VS Code Extension for Mint programming language",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=mint-lang.mint",
                 "id": 247435676,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-02-26T08:14:00Z",
+                "open_issues": 7,
                 "owner": "mint-lang",
                 "repo": "mint-vscode",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "language-syntax",
+                  "mint-lang",
+                  "syntax-highlighting",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T21:28:51.175Z"
             },
@@ -199,12 +281,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Emacs major mode for mint lang",
+                "homepage": "https://www.mint-lang.com",
                 "id": 157512668,
                 "language": "Emacs Lisp",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-05T17:20:53Z",
+                "open_issues": 1,
                 "owner": "creatorrr",
                 "repo": "emacs-mint-mode",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "emacs",
+                  "mint-lang",
+                  "syntax-highlighting"
+                ]
               },
               "first_seen": "2026-08-28T21:28:51.175Z"
             },
@@ -215,12 +306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WIP] Vim syntax for the Mint language - A refreshing programming language for the front-end web. (https://www.mint-lang.com/)",
+                "homepage": null,
                 "id": 245383402,
                 "language": "Vim script",
+                "license": "Unlicense",
                 "last_commit": "2020-03-13T09:53:53Z",
+                "open_issues": 0,
                 "owner": "IrenejMarc",
                 "repo": "vim-mint",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:51.175Z"
             },
@@ -231,12 +327,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Intellij language support for Mint",
+                "homepage": null,
                 "id": 144778871,
                 "language": "Java",
+                "license": "BSD-3-Clause",
                 "last_commit": "2018-09-11T17:35:02Z",
+                "open_issues": 0,
                 "owner": "kingsleyh",
                 "repo": "intellij-mint",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "intellij",
+                  "intellij-plugin",
+                  "mint-lang"
+                ]
               },
               "first_seen": "2026-08-28T21:28:51.175Z"
             },
@@ -247,12 +352,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Atom plugin for the mint language",
+                "homepage": null,
                 "id": 136951435,
                 "language": "CoffeeScript",
+                "license": null,
                 "last_commit": "2018-07-06T08:34:36Z",
+                "open_issues": 0,
                 "owner": "kingsleyh",
                 "repo": "language-mint",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "mint-lang"
+                ]
               },
               "first_seen": "2026-08-28T21:28:51.175Z"
             }
@@ -274,12 +386,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This action installs Mint (programming language for writing single page applications).",
+            "homepage": null,
             "id": 250486228,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-23T22:58:40Z",
+            "open_issues": 0,
             "owner": "fabasoad",
             "repo": "setup-mint-action",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "cli",
+              "github-action",
+              "github-actions",
+              "mint",
+              "programming-language",
+              "setup-mint"
+            ]
           },
           "first_seen": "2026-08-28T21:28:51.175Z"
         }
@@ -296,12 +420,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A zsh plugin that provides completions for the \"mint\" binary.",
+            "homepage": null,
             "id": 895728810,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-11-30T13:32:43Z",
+            "open_issues": 0,
             "owner": "tamdaz",
             "repo": "mint-lang-zsh",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "mint-lang",
+              "oh-my-zsh",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T21:28:51.175Z"
         }
@@ -310,15 +443,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:28:51.175Z",
+    "last_updated": "2026-08-29T05:06:19.719Z",
     "original_repository_info": {
       "archived": false,
+      "description": " A refreshing collection of awesome Mint libraries, tools, and software",
+      "homepage": null,
       "id": 259392327,
       "language": null,
+      "license": null,
       "last_commit": "2024-12-21T15:19:54Z",
+      "open_issues": 0,
       "owner": "egajda",
       "repo": "awesome-mint",
-      "stars": 54
+      "stars": 54,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-mint",
+        "mint-lang"
+      ]
     },
     "original_repository_sha": "bf1257b5e245f0e67d06dadf58059952386a0f76",
     "enhanced_repository": "enhansome/enhansome-mint",
