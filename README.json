@@ -21,7 +21,7 @@
                 "open_issues": 14,
                 "owner": "mint-lang",
                 "repo": "mint",
-                "stars": 4266,
+                "stars": 4267,
                 "topics": [
                   "compile-to-js",
                   "compiler",
@@ -49,7 +49,7 @@
                 "open_issues": 14,
                 "owner": "mint-lang",
                 "repo": "mint",
-                "stars": 4266,
+                "stars": 4267,
                 "topics": [
                   "compile-to-js",
                   "compiler",
@@ -443,7 +443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T15:14:56.275Z",
+    "last_updated": "2026-09-10T15:06:36.460Z",
     "original_repository_info": {
       "archived": false,
       "description": " A refreshing collection of awesome Mint libraries, tools, and software",
