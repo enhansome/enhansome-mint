@@ -2,7 +2,7 @@
 
 # Awesome Mint with stars
 
-> A curated list of awesome things related to [Mint](https://www.mint-lang.com). Inspired by [Awesome Crystal](https://github.com/veelenga/awesome-crystal#shell-plugins) ⭐ 3,562 | 🐛 1 | 🌐 Crystal | 📅 2026-08-19, [Awesome Vue](https://github.com/vuejs/awesome-vue#community) ⭐ 73,542 | 🐛 89 | 📅 2026-09-16 and all the other Awesome Lists of the world.
+> A curated list of awesome things related to [Mint](https://www.mint-lang.com). Inspired by [Awesome Crystal](https://github.com/veelenga/awesome-crystal#shell-plugins) ⭐ 3,562 | 🐛 1 | 🌐 Crystal | 📅 2026-08-19, [Awesome Vue](https://github.com/vuejs/awesome-vue#community) ⭐ 73,543 | 🐛 86 | 📅 2026-09-17 and all the other Awesome Lists of the world.
 
 * [Resources](#resources)
   * [Official Resources](#official-resources)
@@ -111,4 +111,4 @@ Contributions welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
