@@ -2,7 +2,7 @@
 
 # Awesome Mint with stars
 
-> A curated list of awesome things related to [Mint](https://www.mint-lang.com). Inspired by [Awesome Crystal](https://github.com/veelenga/awesome-crystal#shell-plugins) ⭐ 3,561 | 🐛 1 | 🌐 Crystal | 📅 2026-08-19, [Awesome Vue](https://github.com/vuejs/awesome-vue#community) ⭐ 73,546 | 🐛 80 | 📅 2026-09-18 and all the other Awesome Lists of the world.
+> A curated list of awesome things related to [Mint](https://www.mint-lang.com). Inspired by [Awesome Crystal](https://github.com/veelenga/awesome-crystal#shell-plugins) ⭐ 3,561 | 🐛 1 | 🌐 Crystal | 📅 2026-08-19, [Awesome Vue](https://github.com/vuejs/awesome-vue#community) ⭐ 73,548 | 🐛 80 | 📅 2026-09-18 and all the other Awesome Lists of the world.
 
 * [Resources](#resources)
   * [Official Resources](#official-resources)
@@ -89,7 +89,7 @@ This page covers general-purpose tools that support Mint language.
 
 ### Editor extensions
 
-* [VSCode extension](https://github.com/s0kil/mint-vscode) ⭐ 34 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-14 - adds syntax highlighting and autocomplete support
+* [VSCode extension](https://github.com/s0kil/mint-vscode) ⭐ 34 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-20 - adds syntax highlighting and autocomplete support
 * [Emacs mode](https://github.com/creatorrr/emacs-mint-mode) ⭐ 15 | 🐛 1 | 🌐 Emacs Lisp | 📅 2022-11-05 - adds syntax highlighting and auto-formatting using mint format
 * [Vim](https://github.com/IrenejMarc/vim-mint) ⭐ 7 | 🐛 0 | 🌐 Vim script | 📅 2020-03-13 - very minimal (but working) syntax/ftdetect combo
 * [IntelliJ plugin](https://github.com/kingsleyh/intellij-mint) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2018-09-11 - adds syntax highlighting
@@ -111,4 +111,4 @@ Contributions welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
