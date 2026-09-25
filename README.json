@@ -391,7 +391,7 @@
             "id": 250486228,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-17T23:59:47Z",
+            "last_commit": "2026-09-25T00:21:04Z",
             "open_issues": 0,
             "owner": "fabasoad",
             "repo": "setup-mint-action",
@@ -443,7 +443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:53:18.225Z",
+    "last_updated": "2026-09-25T15:54:31.687Z",
     "original_repository_info": {
       "archived": false,
       "description": " A refreshing collection of awesome Mint libraries, tools, and software",
