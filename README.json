@@ -395,7 +395,7 @@
             "open_issues": 0,
             "owner": "fabasoad",
             "repo": "setup-mint-action",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "cli",
               "github-action",
@@ -443,7 +443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T15:46:12.728Z",
+    "last_updated": "2026-09-28T18:42:00.096Z",
     "original_repository_info": {
       "archived": false,
       "description": " A refreshing collection of awesome Mint libraries, tools, and software",
