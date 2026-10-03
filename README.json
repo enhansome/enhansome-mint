@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "GitHub Repo",
-              "description": null,
+              "description": "mint-lang/mint",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -36,7 +36,7 @@
             {
               "node_type": "item",
               "title": "Release Notes",
-              "description": null,
+              "description": "mint-lang/mint",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -71,7 +71,7 @@
             {
               "node_type": "item",
               "title": "RealWorld",
-              "description": null,
+              "description": "mint-lang/mint-realworld",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -175,7 +175,7 @@
             {
               "node_type": "item",
               "title": "Code Mirror",
-              "description": null,
+              "description": "mint-lang/mint-codemirror",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -212,7 +212,7 @@
             {
               "node_type": "item",
               "title": "Tauri",
-              "description": null,
+              "description": "s0kil/mint-tauri-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -443,7 +443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:46:42.731Z",
+    "last_updated": "2026-10-03T04:58:07.162Z",
     "original_repository_info": {
       "archived": false,
       "description": " A refreshing collection of awesome Mint libraries, tools, and software",
