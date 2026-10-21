@@ -17,7 +17,7 @@
                 "id": 125516114,
                 "language": "Crystal",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-08T13:25:02Z",
+                "last_commit": "2026-10-20T23:12:25Z",
                 "open_issues": 14,
                 "owner": "mint-lang",
                 "repo": "mint",
@@ -45,7 +45,7 @@
                 "id": 125516114,
                 "language": "Crystal",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-08T13:25:02Z",
+                "last_commit": "2026-10-20T23:12:25Z",
                 "open_issues": 14,
                 "owner": "mint-lang",
                 "repo": "mint",
@@ -443,7 +443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T15:47:41.124Z",
+    "last_updated": "2026-10-21T16:03:43.834Z",
     "original_repository_info": {
       "archived": false,
       "description": " A refreshing collection of awesome Mint libraries, tools, and software",
