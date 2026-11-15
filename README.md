@@ -2,7 +2,7 @@
 
 # Awesome Mint with stars
 
-> A curated list of awesome things related to [Mint](https://www.mint-lang.com). Inspired by [Awesome Crystal](https://github.com/veelenga/awesome-crystal#shell-plugins) ⭐ 3,573 | 🐛 0 | 🌐 Crystal | 📅 2026-10-20, [Awesome Vue](https://github.com/vuejs/awesome-vue#community) ⭐ 73,475 | 🐛 112 | 📅 2026-11-03 and all the other Awesome Lists of the world.
+> A curated list of awesome things related to [Mint](https://www.mint-lang.com). Inspired by [Awesome Crystal](https://github.com/veelenga/awesome-crystal#shell-plugins) ⭐ 3,573 | 🐛 0 | 🌐 Crystal | 📅 2026-10-20, [Awesome Vue](https://github.com/vuejs/awesome-vue#community) ⭐ 73,473 | 🐛 112 | 📅 2026-11-03 and all the other Awesome Lists of the world.
 
 * [Resources](#resources)
   * [Official Resources](#official-resources)
@@ -25,8 +25,8 @@
 
 ### Official Resources
 
-* [GitHub Repo](https://github.com/mint-lang/mint) ⭐ 4,271 | 🐛 12 | 🌐 Crystal | 📅 2026-11-10
-* [Release Notes](https://github.com/mint-lang/mint/releases) ⭐ 4,271 | 🐛 12 | 🌐 Crystal | 📅 2026-11-10
+* [GitHub Repo](https://github.com/mint-lang/mint) ⭐ 4,272 | 🐛 12 | 🌐 Crystal | 📅 2026-11-10
+* [Release Notes](https://github.com/mint-lang/mint/releases) ⭐ 4,272 | 🐛 12 | 🌐 Crystal | 📅 2026-11-10
 * [Official Guide](https://www.mint-lang.com/guide)
 * [Official Blog](https://www.mint-lang.com/blog)
 
@@ -61,7 +61,7 @@
 
 ### Open Source
 
-* [Hackerfit](https://github.com/egajda/hackerfit) ⭐ 8 | 🐛 0 | 📅 2020-04-25 - A fun way to be active everyday
+* [Hackerfit](https://github.com/egajda/hackerfit) ⭐ 9 | 🐛 0 | 📅 2020-04-25 - A fun way to be active everyday
 * [TodoMVC](https://github.com/ymmooot/mint-todomvc) ⭐ 8 | 🐛 0 | 🌐 HTML | 📅 2020-05-03 - Mint implementation of [TodoMVC](http://todomvc.com/)
 
 ### Commercial Products
@@ -111,4 +111,4 @@ Contributions welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
