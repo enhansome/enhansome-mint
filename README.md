@@ -2,7 +2,7 @@
 
 # Awesome Mint with stars
 
-> A curated list of awesome things related to [Mint](https://www.mint-lang.com). Inspired by [Awesome Crystal](https://github.com/veelenga/awesome-crystal#shell-plugins) ⭐ 3,576 | 🐛 1 | 🌐 Crystal | 📅 2026-10-20, [Awesome Vue](https://github.com/vuejs/awesome-vue#community) ⭐ 73,468 | 🐛 114 | 📅 2026-11-03 and all the other Awesome Lists of the world.
+> A curated list of awesome things related to [Mint](https://www.mint-lang.com). Inspired by [Awesome Crystal](https://github.com/veelenga/awesome-crystal#shell-plugins) ⭐ 3,577 | 🐛 2 | 🌐 Crystal | 📅 2026-10-20, [Awesome Vue](https://github.com/vuejs/awesome-vue#community) ⭐ 73,466 | 🐛 114 | 📅 2026-11-03 and all the other Awesome Lists of the world.
 
 * [Resources](#resources)
   * [Official Resources](#official-resources)
@@ -97,7 +97,7 @@ This page covers general-purpose tools that support Mint language.
 
 ## CI/CD
 
-* [Github action](https://github.com/fabasoad/setup-mint-action) ⭐ 16 | 🐛 0 | 🌐 Shell | 📅 2026-11-13 - Github action to test and build Mint projects
+* [Github action](https://github.com/fabasoad/setup-mint-action) ⭐ 16 | 🐛 1 | 🌐 Shell | 📅 2026-11-13 - Github action to test and build Mint projects
 
 ## Script plugins
 
@@ -111,4 +111,4 @@ Contributions welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
